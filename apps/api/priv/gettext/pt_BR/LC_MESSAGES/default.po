@@ -1,0 +1,19 @@
+## `msgid`s in this file come from POT (.pot) files.
+##
+## Do not add, change, or remove `msgid`s manually here as
+## they're tied to the ones in the corresponding POT file
+## (with the same domain).
+##
+## Use `mix gettext.extract --merge` or `mix gettext.merge`
+## to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+
+#: lib/api/views/error_view.ex:9
+msgid "Internal server error"
+msgstr "Erro interno do servidor"
+
+#: lib/api/views/error_view.ex:5
+msgid "Page not found"
+msgstr "Página não encontrada"
